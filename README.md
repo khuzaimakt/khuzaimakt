@@ -1,7 +1,7 @@
 ### Hola, I am Khuzaima 👋
 
 - 🔭 I’m currently working on Python, C++, JScript and Tableau.
-- 🌱 I’m currently learning Data Science and ML/AI.
+- 🌱 Passionate Data Scientist and ML/AI Enthusiast
 - 💬 Ask me about Coding/ Data
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/khuzaima-tofeeq-530b08230/
 - 😄 Pronouns: KT
