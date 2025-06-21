@@ -1,6 +1,6 @@
 ### Hola, I am Khuzaima 👋
 
-- 🔭 I’m currently working on Python, Javascript and C++.
+- 🔭 I’m currently working on Python, and Javascript.
 - 🌱 Passionate Data Scientist and ML/AI Engineer.
 - 💬 Ask me about Coding/ Data
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/khuzaima-tofeeq-530b08230/
